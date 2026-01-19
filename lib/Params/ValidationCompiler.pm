@@ -103,7 +103,7 @@ parameters, and extra "slurpy" parameters.
 
 =head1 PARAMETERS
 
-This module has two options exports, C<validation_for> and C<source_for>. Both
+This module has two optional exports, C<validation_for> and C<source_for>. Both
 of these subs accept the same options:
 
 =head2 params
